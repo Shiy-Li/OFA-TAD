@@ -1,6 +1,6 @@
 # OFA-TAD
 
-Official implementation of "Towards One-for-All Anomaly Detection for Tabular Data", accepted by ICML 2026.
+Official implementation of "[Towards One-for-All Anomaly Detection for Tabular Data](https://arxiv.org/abs/2603.14407)", accepted by ICML 2026.
 
 ## Overview
 
